@@ -97,9 +97,9 @@ L'assemblée générale :
 
 L'assemblée générale est présidée par le Président du Saint-Comité ou un autre membre du Saint-Comité.
 
-La formule du vote est définie par l'assemblée et disponible sur demande.
+La formule de pondération des votes est définie par l’assemblée générale et communiquée sur demande.
 
-Les décisions de l'assemblée générale sont prises à la majorité simple des voix des membres présents. En cas d'égalité des voix, celle du président compte double.
+Les décisions de l’assemblée générale sont prises à la majorité simple des voix, pondérées selon la formule. En cas d’égalité, la voix du président est prépondérante et compte double.
 
 Les décisions relatives à la modification des statuts et à la dissolution de l'association ne peuvent être prises qu'à la majorité des 2/3 des membres présents.
 
