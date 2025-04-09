@@ -8,7 +8,7 @@
 
 Sous le nom de "CHIT (Club of Honourable and International Tchoukball)" est constituée une association à but non lucratif régie par les présents statuts et par les articles 60 et suivants du Code civil suisse.
 
-Le siège de l'association est situé dans le Canton de Genève..
+Le siège de l'association est situé dans le Canton de Genève.
 
 Sa durée est indéterminée.
 
@@ -36,14 +36,14 @@ L'association se compose des catégories de membres suivantes :
 
 Peut être membre de l'association toute personne physique ou morale désireuse de pratiquer ou de promouvoir le tchoukball en accord avec les valeurs et les buts de l'association.
 
-Les demandes d'admission sont adressées au Saint-Comité. Le Saint-Comité admet les nouveaux membres et en informe l'assemblée générale.
+Les demandes d'admission sont adressées au Saint-Comité. Le Saint-Comité admet les nouveaux membres et en informe l'Assemblée des Joueurs.
 
 ### Article 5 : Perte de la qualité de membre
 
 La qualité de membre se perd :
 
 - par démission écrite adressée au Saint-Comité au moins un mois avant la fin de l'exercice
-- par exclusion prononcée par le Saint-Comité, pour "juste motif", avec un droit de recours devant l'assemblée générale
+- par exclusion prononcée par le Saint-Comité, pour "juste motif", avec un droit de recours devant l'Assemblée des Joueurs
 - par défaut de paiement de la Dîme de Soutien pour les Membres Mécènes après un rappel écrit
 - par décès
 
@@ -69,22 +69,22 @@ L'exercice social commence le 1er janvier et se termine le 31 décembre de chaqu
 
 Les organes de l'association sont :
 
-- L'assemblée générale
+- L'Assemblée des Joueurs
 - Le Saint-Comité
 
-### Article 8 : Assemblée générale
+### Article 8 : Assemblée des Joueurs
 
-L'assemblée générale est l'organe suprême de l'association. Elle se réunit tous les deux ans en session ordinaire.
+L'Assemblée des Joueurs est l'organe suprême de l'association. Elle se réunit tous les deux ans en session ordinaire.
 
 Elle peut, en outre, se réunir en session extraordinaire chaque fois que nécessaire à la demande du Saint-Comité ou de 1/5ème des membres.
 
-L'assemblée générale est valablement constituée quel que soit le nombre des membres présents.
+L'Assemblée des Joueurs est valablement constituée quel que soit le nombre des membres présents.
 
-Le Saint-Comité communique aux membres par écrit la date de l'assemblée générale au moins 4 semaines à l'avance. La convocation mentionnant l'ordre du jour est adressée par le Saint-Comité à chaque membre au moins 10 jours à l'avance.
+Le Saint-Comité communique aux membres par écrit la date de l'Assemblée des Joueurs au moins 4 semaines à l'avance. La convocation mentionnant l'ordre du jour est adressée par le Saint-Comité à chaque membre au moins 10 jours à l'avance.
 
-### Article 9 : Compétences de l'assemblée générale
+### Article 9 : Compétences de l'Assemblée des Joueurs
 
-L'assemblée générale :
+L'Assemblée des Joueurs :
 
 - Élit les membres du Saint-Comité
 - Prend connaissance des rapports et des comptes de l'exercice et vote leur approbation
@@ -95,11 +95,9 @@ L'assemblée générale :
 
 ### Article 10 : Présidence et vote
 
-L'assemblée générale est présidée par le Président du Saint-Comité ou un autre membre du Saint-Comité.
+L'Assemblée des Joueurs est présidée par le Président du Saint-Comité ou un autre membre du Saint-Comité.
 
-La formule du vote est définie par l'assemblée et disponible sur demande.
-
-Les décisions de l'assemblée générale sont prises à la majorité simple des voix des membres présents. En cas d'égalité des voix, celle du président compte double.
+Les décisions de l'Assemblée des Joueurs sont prises à la majorité simple des voix des membres présents. En cas d'égalité des voix, celle du président compte double.
 
 Les décisions relatives à la modification des statuts et à la dissolution de l'association ne peuvent être prises qu'à la majorité des 2/3 des membres présents.
 
@@ -107,7 +105,7 @@ Les décisions relatives à la modification des statuts et à la dissolution de 
 
 Le Saint-Comité est autorisé à faire tous les actes qui se rapportent au but de l'association. Il a les pouvoirs les plus étendus pour la gestion des affaires courantes.
 
-Le Saint-Comité se compose au minimum de deux membres élus par l'assemblée générale :
+Le Saint-Comité se compose au minimum de deux membres élus par l'Assemblée des Joueurs :
 
 - Un Président
 - Un Trésorier
@@ -121,7 +119,7 @@ Il se réunit autant de fois que les affaires de l'association l'exigent.
 Le Saint-Comité :
 
 - Prend les mesures utiles pour atteindre le but fixé
-- Convoque les assemblées générales ordinaires et extraordinaires
+- Convoque les Assemblées des Joueurs ordinaires et extraordinaires
 - Prend les décisions relatives à l'admission et à la démission des membres, ainsi que de leur exclusion éventuelle
 - Veille à l'application des statuts
 - Administre les biens de l'association
