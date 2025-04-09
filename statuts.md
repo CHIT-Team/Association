@@ -8,7 +8,7 @@
 
 Sous le nom de "CHIT (Club of Honourable and International Tchoukball)" est constituée une association à but non lucratif régie par les présents statuts et par les articles 60 et suivants du Code civil suisse.
 
-Le siège de l'association est à Genève.
+Le siège de l'association est situé dans le Canton de Genève..
 
 Sa durée est indéterminée.
 
