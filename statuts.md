@@ -58,7 +58,7 @@ Les ressources de l'association proviennent :
 - D'un financement supplétif des membres demandé lors de l'organisation d'un événement officiel CHIT
 - De donations, legs, sponsors, subventions et/ou revenus générés par les actifs de l'association
 - Du bénéfice sur la vente de merchandising
-- De la Dîme de Soutien versée par les Membres Mécènes (minimum 50 CHF, montant libre)
+- De la Dîme de Soutien versée par les Membres Mécènes (minimum fixé par l'Assemblée des Joueurs, montant libre)
 - Des autres ressources légales éventuelles
 
 L'exercice social commence le 1er janvier et se termine le 31 décembre de chaque année.
