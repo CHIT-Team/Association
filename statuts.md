@@ -80,7 +80,7 @@ Elle peut, en outre, se réunir en session extraordinaire chaque fois que néces
 
 L'Assemblée des Joueurs est valablement constituée quel que soit le nombre des membres présents.
 
-Le Saint-Comité communique aux membres par écrit la date de l'Assemblée des Joueurs au moins 4 semaines à l'avance. La convocation mentionnant l'ordre du jour est adressée par le Saint-Comité à chaque membre au moins 10 jours à l'avance.
+Le Saint-Comité communique aux membres par écrit la date et l'ordre du jour de l'Assemblée des Joueurs au moins 5 jours à l'avance.
 
 ### Article 9 : Compétences de l'Assemblée des Joueurs
 
@@ -90,6 +90,8 @@ L'Assemblée des Joueurs :
 - Prend connaissance des rapports et des comptes de l'exercice et vote leur approbation
 - Approuve le budget annuel
 - Contrôle l'activité des autres organes qu'elle peut révoquer pour justes motifs
+- De fixer le montant de la Dîme de Soutien suggérée par le Saint-Comité
+- De définir et changer le calcul de pondération des votes suggéré par le Saint-Comité
 - Décide de toute modification des statuts
 - Décide de la dissolution de l'association
 
@@ -103,7 +105,7 @@ Les décisions relatives à la modification des statuts et à la dissolution de 
 
 ### Article 11 : Saint-Comité
 
-Le Saint-Comité est autorisé à faire tous les actes qui se rapportent au but de l'association. Il a les pouvoirs les plus étendus pour la gestion des affaires courantes.
+Le Saint-Comité a les pouvoirs les plus étendus pour la gestion des affaires courantes et se réunit autant de fois que les affaires de l'association l'exigent.
 
 Le Saint-Comité se compose au minimum de deux membres élus par l'Assemblée des Joueurs :
 
@@ -112,18 +114,18 @@ Le Saint-Comité se compose au minimum de deux membres élus par l'Assemblée de
 
 La durée du mandat est de 2 ans renouvelable.
 
-Il se réunit autant de fois que les affaires de l'association l'exigent.
-
 ### Article 12 : Compétences du Saint-Comité
 
 Le Saint-Comité :
 
-- Prend les mesures utiles pour atteindre le but fixé
+- Gère les affaires courantes et prend les mesures utiles pour atteindre le but fixé
 - Convoque les Assemblées des Joueurs ordinaires et extraordinaires
 - Prend les décisions relatives à l'admission et à la démission des membres, ainsi que de leur exclusion éventuelle
 - Veille à l'application des statuts
 - Administre les biens de l'association
-- Engage et supervise le personnel bénévole et salarié
+- Détermine les événements auxquels participer (événement officiel CHIT)
+- Tient à jour le calcul des pondérations de voix des différents membres
+- Décide du montant du financement supplétif lors de l’inscription à un événement officiel CHIT en accord le budget défini par l’Assemblée des Joueurs.
 
 ### Article 13 : Engagement et représentation
 
