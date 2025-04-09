@@ -90,8 +90,8 @@ L'Assemblée des Joueurs :
 - Prend connaissance des rapports et des comptes de l'exercice et vote leur approbation
 - Approuve le budget annuel
 - Contrôle l'activité des autres organes qu'elle peut révoquer pour justes motifs
-- De fixer le montant de la Dîme de Soutien suggérée par le Saint-Comité
-- De définir et changer le calcul de pondération des votes suggéré par le Saint-Comité
+- Fixe le montant de la Dîme de Soutien suggérée par le Saint-Comité
+- Défini et changer le calcul de pondération des votes suggéré par le Saint-Comité
 - Décide de toute modification des statuts
 - Décide de la dissolution de l'association
 
@@ -124,7 +124,7 @@ Le Saint-Comité :
 - Veille à l'application des statuts
 - Administre les biens de l'association
 - Détermine les événements auxquels participer (événement officiel CHIT)
-- Tient à jour le calcul des pondérations de voix des différents membres
+- Tient à jour le calcul des pondérations de voix des différents membres et le met à disposition des membres
 - Décide du montant du financement supplétif lors de l’inscription à un événement officiel CHIT en accord le budget défini par l’Assemblée des Joueurs.
 
 ### Article 13 : Engagement et représentation
