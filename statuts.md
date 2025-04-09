@@ -61,7 +61,7 @@ Les ressources de l'association proviennent :
 - De la Dîme de Soutien versée par les Membres Mécènes (minimum fixé par l'Assemblée des Joueurs, montant libre)
 - Des autres ressources légales éventuelles
 
-L'exercice social commence le 1er janvier et se termine le 31 décembre de chaque année.
+L'exercice social commence le 1er juin et se termine le 31 mai de l'année suivante. 
 
 ## IV. ORGANISATION
 
@@ -143,4 +143,4 @@ Pour l'association CHIT :
 
 Le Président : Thomas Produit
 
-Trésorier : Nathanaël Khodl
+Phynancier : Nathanaël Khodl
