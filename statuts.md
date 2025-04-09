@@ -112,7 +112,7 @@ Le Saint-Comité se compose au minimum de deux membres élus par l'Assemblée de
 - Un Président
 - Un Phynancier
 
-La durée du mandat est de 2 ans renouvelable.
+La durée du mandat est de 2 ans renouvelable. Les délibérations du Saint-Comité sont valables pour autant que tous ses membres y soient présents. Chaque membre du Saint-Comité possède une voix pleine et non pondérée et ses décisions sont prises à la majorité simple. En cas d'égalité, le vote du Président est prépondérant.
 
 ### Article 12 : Compétences du Saint-Comité
 
