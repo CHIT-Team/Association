@@ -108,7 +108,7 @@ Le Saint-Comité est autorisé à faire tous les actes qui se rapportent au but 
 Le Saint-Comité se compose au minimum de deux membres élus par l'Assemblée des Joueurs :
 
 - Un Président
-- Un Trésorier
+- Un Phynancier
 
 La durée du mandat est de 2 ans renouvelable.
 
