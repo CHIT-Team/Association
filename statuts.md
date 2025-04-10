@@ -8,7 +8,7 @@
 
 Sous le nom de "CHIT (Club of Honourable and International Tchoukball)" est constituée une association à but non lucratif régie par les présents statuts et par les articles 60 et suivants du Code civil suisse.
 
-Le siège de l'association est à Genève.
+Le siège de l'association est situé dans le Canton de Genève.
 
 Sa durée est indéterminée.
 
@@ -36,14 +36,14 @@ L'association se compose des catégories de membres suivantes :
 
 Peut être membre de l'association toute personne physique ou morale désireuse de pratiquer ou de promouvoir le tchoukball en accord avec les valeurs et les buts de l'association.
 
-Les demandes d'admission sont adressées au Saint-Comité. Le Saint-Comité admet les nouveaux membres et en informe l'assemblée générale.
+Les demandes d'admission sont adressées au Saint-Comité. Le Saint-Comité admet les nouveaux membres et en informe l'Assemblée des Joueurs.
 
 ### Article 5 : Perte de la qualité de membre
 
 La qualité de membre se perd :
 
 - par démission écrite adressée au Saint-Comité au moins un mois avant la fin de l'exercice
-- par exclusion prononcée par le Saint-Comité, pour "juste motif", avec un droit de recours devant l'assemblée générale
+- par exclusion prononcée par le Saint-Comité, pour "juste motif", avec un droit de recours devant l'Assemblée des Joueurs
 - par défaut de paiement de la Dîme de Soutien pour les Membres Mécènes après un rappel écrit
 - par décès
 
@@ -58,10 +58,10 @@ Les ressources de l'association proviennent :
 - D'un financement supplétif des membres demandé lors de l'organisation d'un événement officiel CHIT
 - De donations, legs, sponsors, subventions et/ou revenus générés par les actifs de l'association
 - Du bénéfice sur la vente de merchandising
-- De la Dîme de Soutien versée par les Membres Mécènes (minimum 50 CHF, montant libre)
+- De la Dîme de Soutien versée par les Membres Mécènes (minimum fixé par l'Assemblée des Joueurs, montant libre)
 - Des autres ressources légales éventuelles
 
-L'exercice social commence le 1er janvier et se termine le 31 décembre de chaque année.
+L'exercice social commence le 1er juin et se termine le 31 mai de l'année suivante. 
 
 ## IV. ORGANISATION
 
@@ -69,63 +69,63 @@ L'exercice social commence le 1er janvier et se termine le 31 décembre de chaqu
 
 Les organes de l'association sont :
 
-- L'assemblée générale
+- L'Assemblée des Joueurs
 - Le Saint-Comité
 
-### Article 8 : Assemblée générale
+### Article 8 : Assemblée des Joueurs
 
-L'assemblée générale est l'organe suprême de l'association. Elle se réunit tous les deux ans en session ordinaire.
+L'Assemblée des Joueurs est l'organe suprême de l'association. Elle se réunit tous les deux ans en session ordinaire.
 
 Elle peut, en outre, se réunir en session extraordinaire chaque fois que nécessaire à la demande du Saint-Comité ou de 1/5ème des membres.
 
-L'assemblée générale est valablement constituée quel que soit le nombre des membres présents.
+L'Assemblée des Joueurs est valablement constituée quel que soit le nombre des membres présents.
 
-Le Saint-Comité communique aux membres par écrit la date de l'assemblée générale au moins 4 semaines à l'avance. La convocation mentionnant l'ordre du jour est adressée par le Saint-Comité à chaque membre au moins 10 jours à l'avance.
+Le Saint-Comité communique aux membres par écrit la date et l'ordre du jour de l'Assemblée des Joueurs au moins 5 jours à l'avance.
 
-### Article 9 : Compétences de l'assemblée générale
+### Article 9 : Compétences de l'Assemblée des Joueurs
 
-L'assemblée générale :
+L'Assemblée des Joueurs :
 
 - Élit les membres du Saint-Comité
 - Prend connaissance des rapports et des comptes de l'exercice et vote leur approbation
 - Approuve le budget annuel
 - Contrôle l'activité des autres organes qu'elle peut révoquer pour justes motifs
+- Fixe le montant de la Dîme de Soutien suggérée par le Saint-Comité
+- Défini et changer le calcul de pondération des votes suggéré par le Saint-Comité
 - Décide de toute modification des statuts
 - Décide de la dissolution de l'association
 
 ### Article 10 : Présidence et vote
 
-L'assemblée générale est présidée par le Président du Saint-Comité ou un autre membre du Saint-Comité.
+L'Assemblée des Joueurs est présidée par le Président du Saint-Comité ou un autre membre du Saint-Comité.
 
-La formule de pondération des votes est définie par l'assemblée générale et communiquée sur demande.
-
-Les décisions de l'assemblée générale sont prises à la majorité simple des voix des membres présents, pondérées selon la formule. En cas d'égalité, la voix du président est prépondérante et compte double.
+Les décisions de l'Assemblée des Joueurs sont prises à la majorité simple des voix des membres présents, pondérées selon la formule définies au préalable. En cas d'égalité, le Président tranche.
 
 Les décisions relatives à la modification des statuts et à la dissolution de l'association ne peuvent être prises qu'à la majorité des 2/3 des membres présents.
 
 ### Article 11 : Saint-Comité
 
-Le Saint-Comité est autorisé à faire tous les actes qui se rapportent au but de l'association. Il a les pouvoirs les plus étendus pour la gestion des affaires courantes.
+Le Saint-Comité a les pouvoirs les plus étendus pour la gestion des affaires courantes et se réunit autant de fois que les affaires de l'association l'exigent.
 
-Le Saint-Comité se compose au minimum de deux membres élus par l'assemblée générale :
+Le Saint-Comité se compose au minimum de deux membres élus par l'Assemblée des Joueurs :
 
 - Un Président
 - Un Trésorier
 
-La durée du mandat est de 2 ans renouvelable.
-
-Il se réunit autant de fois que les affaires de l'association l'exigent.
+La durée du mandat est de 2 ans renouvelable. Les délibérations du Saint-Comité sont valables pour autant que tous ses membres y soient présents. Chaque membre du Saint-Comité possède une voix pleine et non pondérée et ses décisions sont prises à la majorité simple. En cas d'égalité, le vote du Président est prépondérant.
 
 ### Article 12 : Compétences du Saint-Comité
 
 Le Saint-Comité :
 
-- Prend les mesures utiles pour atteindre le but fixé
-- Convoque les assemblées générales ordinaires et extraordinaires
+- Gère les affaires courantes et prend les mesures utiles pour atteindre le but fixé
+- Convoque les Assemblées des Joueurs ordinaires et extraordinaires
 - Prend les décisions relatives à l'admission et à la démission des membres, ainsi que de leur exclusion éventuelle
 - Veille à l'application des statuts
 - Administre les biens de l'association
-- Engage et supervise le personnel bénévole et salarié
+- Détermine les événements auxquels participer (événement officiel CHIT)
+- Tient à jour le calcul des pondérations de voix des différents membres et le met à disposition des membres
+- Décide du montant du financement supplétif lors de l’inscription à un événement officiel CHIT en accord le budget défini par l’Assemblée des Joueurs.
 
 ### Article 13 : Engagement et représentation
 
@@ -139,7 +139,7 @@ En cas de dissolution de l'association, l'actif disponible sera entièrement att
 
 ### Article 15 : Entrée en vigueur
 
-Les présents statuts ont été adoptés par l'assemblée constitutive du 3 avril 2025 à Genève.
+Les présents statuts ont été adoptés par l'Assemblée des Joueurs du 10.05.2025 et sont entrés en vigueur avec effets immédiats. La version en français, originale, fait foi.
 
 Pour l'association CHIT :
 
