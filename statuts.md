@@ -139,7 +139,7 @@ En cas de dissolution de l'association, l'actif disponible sera entièrement att
 
 ### Article 15 : Entrée en vigueur
 
-Les présents statuts ont été adoptés par l'Assemblée des Joueurs du 10.05.2025 et sont entrés en vigueur avec effets immédiats. La version française, originale, fait foi.
+Les présents statuts ont été adoptés par l'Assemblée des Joueurs du 10.05.2025 et sont entrés en vigueur avec effets immédiats. La version en français, originale, fait foi.
 
 Pour l'association CHIT :
 
