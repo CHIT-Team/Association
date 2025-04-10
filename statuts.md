@@ -110,7 +110,7 @@ Le Saint-Comité a les pouvoirs les plus étendus pour la gestion des affaires c
 Le Saint-Comité se compose au minimum de deux membres élus par l'Assemblée des Joueurs :
 
 - Un Président
-- Un Phynancier
+- Un Trésorier
 
 La durée du mandat est de 2 ans renouvelable. Les délibérations du Saint-Comité sont valables pour autant que tous ses membres y soient présents. Chaque membre du Saint-Comité possède une voix pleine et non pondérée et ses décisions sont prises à la majorité simple. En cas d'égalité, le vote du Président est prépondérant.
 
@@ -145,4 +145,4 @@ Pour l'association CHIT :
 
 Le Président : Thomas Produit
 
-Phynancier : Nathanaël Khodl
+Trésorier : Nathanaël Khodl
