@@ -99,7 +99,7 @@ L'Assemblée des Joueurs :
 
 L'Assemblée des Joueurs est présidée par le Président du Saint-Comité ou un autre membre du Saint-Comité.
 
-Les décisions de l'Assemblée des Joueurs sont prises à la majorité simple des voix des membres présents. En cas d'égalité des voix, celle du président compte double.
+Les décisions de l'Assemblée des Joueurs sont prises à la majorité simple des voix des membres présents, pondérées selon la formule définies au préalable. En cas d'égalité, le Président tranche.
 
 Les décisions relatives à la modification des statuts et à la dissolution de l'association ne peuvent être prises qu'à la majorité des 2/3 des membres présents.
 
